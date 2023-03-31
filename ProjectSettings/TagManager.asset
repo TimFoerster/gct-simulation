@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Seat
+  - Spawn
+  - Exit
+  - ExitPoint
+  - Train
+  - Passengers
+  - Station
+  - PlatformN
+  - App
+  - PlatformS
+  - GlobalStatistic
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Tracks
+  - Water
+  - UI
+  - Statistic
+  - BLE
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 145934515
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: GameObjects
+    uniqueID: 3923209399
+    locked: 0

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 6aed7132162d9e9458e9bc2e4cf9c9af
+  - enabled: 1
+    path: Assets/Scenes/PublicTransport.unity
+    guid: 71a2dc135a6bc83468034ca2536e54e1
+  - enabled: 1
+    path: Assets/Scenes/Restaurant.unity
+    guid: 82d680f567e2ff145b4591cb0b50c3cd
+  - enabled: 1
+    path: Assets/Scenes/Office.unity
+    guid: 888dec4bb4dd93041871d37dc10acd52
+  - enabled: 1
+    path: Assets/Scenes/Conference.unity
+    guid: 2eebf68611cc29e49ad382615730ae48
+  - enabled: 1
+    path: Assets/Scenes/Park.unity
+    guid: 94ac44d859da0f44d9c4000acc94e1f0
+  m_configObjects: {}
